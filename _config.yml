@@ -9,18 +9,25 @@ exclude:
   - "/vendor/"
 
 # Site settings
+<<<<<<< HEAD
 title: 성적표보여줘
 subtitle: "테스트용"
 email: etaeyoung2@snu.ac.kr
 name: 성적표보여줘
+=======
+title: 성적표보여줘's blog
+subtitle: "테스트용"
+email: 
+name: showyourseonjeok
+>>>>>>> 879116095931a59c3f42fab0966ff9e70b180471
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  테스트용
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://showyourseonjeok.github.io/test2/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/jj.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
