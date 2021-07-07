@@ -9,7 +9,6 @@ exclude:
   - "/vendor/"
 
 # Site settings
-<<<<<<< HEAD
 title: 성적표보여줘
 subtitle: "테스트용"
 email: etaeyoung2@snu.ac.kr
